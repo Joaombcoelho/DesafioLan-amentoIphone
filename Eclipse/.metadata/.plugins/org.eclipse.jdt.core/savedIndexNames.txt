@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\João Manoel\Documents\Curso Programação\DesafioLan-amentoIphone\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+3803894794.index
+1865797976.index
+2992279859.index
